@@ -1,4 +1,7 @@
+[![MasterHead](https://pbs.twimg.com/media/Eljq4M_WoAAWHQp.jpg:large)]
 <h3 align="center">We are all in the perpetual quest for keeping oneself occupied, entertained, and important—which burns at the edge of addiction</h3>
+<!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/X3YUU7Rl_98AAAAC/drift-manga.gif">-->
+
 
 - 📫 How to reach me **k.ren.westin@gmail.com**
 
