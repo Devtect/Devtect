@@ -3,7 +3,6 @@
 <!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/X3YUU7Rl_98AAAAC/drift-manga.gif">-->
 
 
-- 📫 How to reach me **k.ren.westin@gmail.com**
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
